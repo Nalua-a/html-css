@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    background-color: aliceblue;
+    background-image: url(../imagens/fundo-madeira.jpg);
+}
+ul {
+    list-style: none;
+}
+li {
+    display: flex;
+}
+li img {
+    border-radius: 500px;
+    width: 8%;
+    margin-left: auto;
+    margin-right: 0;
+
+}
